@@ -21,11 +21,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+
 
 I am currently an associate professor at IIIT Hyderabad, where I am affiliated with Center for Visual Information Techonology ( CVIT ). I also advise a beautiful animation startup on their AI and ML related efforts (Animaker.com). I completed my PhD degree at INRIA Rhone Alpes/Univesity of Grenoble in applied mathematics and computer science (mathématique appliquée et informatique) under the guidance of Remi Ronfard. I was funded by the CIBLE scholarship by Region Rhone Alpes. Prior to this, I completed my Masters with Erasmus Mundus scholarship under CIMET consortium. I am extremely thankful to European Union for giving me this opportunity which had a huge impact on both my professional and personal life. I spent a semester each in Spain, Norway and France and later joined INRIA for my master thesis and continued for my PhD there. I was also lucky to travel and deeply explore Europe (from south of Spain to North of Norway), at times purely surviving on gestural expressions for communication. I obtained my Bachelor of Technology degree from Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur, India (I belong to the first batch of the insititute).
 
