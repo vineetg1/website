@@ -411,10 +411,10 @@ ninja.data = [{
           section: "News",},{id: "news-can-llms-untangle-who-s-who-in-complex-stories-our-naacl-2025-paper-identifyme-puts-them-to-the-test-with-a-new-coreference-benchmark",
           title: 'Can LLMs untangle who’s who in complex stories? Our NAACL 2025 paper, IdentifyMe,...',
           description: "",
-          section: "News",},{id: "news-two-full-papers-accepted-at-cvpr-2025-tide-improves-model-generalization-by-localizing-class-specific-concepts-and-supports-test-time-correction-velociti-benchmarks-video-language-models-on-compositional-understanding-via-a-strict-video-language-entailment-task-tailored-to-modern-vlms-try-it-on-huggingface",
-          title: 'Two full papers accepted at CVPR 2025: TIDE: Improves model generalization by localizing...',
+          section: "News",},{id: "news-two-full-papers-accepted-at-cvpr-2025-the-first-paper-called-tide-improves-model-generalization-by-localizing-class-specific-concepts-and-supports-test-time-correction-the-second-paper-called-velociti-benchmarks-video-language-models-on-compositional-understanding-via-a-strict-video-language-entailment-task-tailored-to-modern-vlms-try-it-on-huggingface",
+          title: 'Two full papers accepted at CVPR 2025. The first paper called TIDE, improves...',
           description: "",
-          section: "News",},{id: "news-our-paper-nam-to-speech-conversion-with-multitask-enhanced-autoregressive-models-has-been-accepted-at-interspeech-2025-speech-samples-can-be-seen-on-https-noalignnam-github-io-autoregressivenam",
+          section: "News",},{id: "news-our-paper-nam-to-speech-conversion-with-multitask-enhanced-autoregressive-models-has-been-accepted-at-interspeech-2025-speech-samples-can-be-seen-on-here",
           title: 'Our paper “NAM-to-Speech Conversion with Multitask-Enhanced Autoregressive Models” has been accepted at Interspeech...',
           description: "",
           section: "News",},{id: "projects-project-1",
@@ -463,6 +463,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/117/2021.html", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
