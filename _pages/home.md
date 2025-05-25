@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>F24, CVIT</p>
-    <p>KCIS Research Block</p>
+    <p>F24, CVIT,</p>
+    <p>KCIS Research Block,</p>
+    <p>IIIT Hyderabad</p>
     <p>Gachibowli, Hyderabad, India, 500032</p>
 
 
