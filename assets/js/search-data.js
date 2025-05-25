@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-four-papers-accepted-at-icassp-2025",
+          title: 'Four papers accepted at ICASSP 2025.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-full-papers-accepted-at-cvpr-2025-tide-improves-model-generalization-by-localizing-class-specific-concepts-and-supports-test-time-correction-velociti-benchmarks-video-language-models-on-compositional-understanding-via-a-strict-video-language-entailment-task-tailored-to-modern-vlms-try-it-on-huggingface",
+          title: 'Two full papers accepted at CVPR 2025: TIDE: Improves model generalization by localizing...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-nam-to-speech-conversion-with-multitask-enhanced-autoregressive-models-has-been-accepted-at-interspeech-2025-speech-samples-can-be-seen-on-https-noalignnam-github-io-autoregressivenam",
+          title: 'Our paper “NAM-to-Speech Conversion with Multitask-Enhanced Autoregressive Models” has been accepted at Interspeech...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
