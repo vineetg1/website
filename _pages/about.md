@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>F24, Centre for Visual Information Technology (CVIT)</p>
-    <p>2nd floor, KCIS Research Block</p>
+    <p>F24, CVIT</p>
+    <p>KCIS Research Block</p>
     <p>Gachibowli, Hyderabad, India, 500032</p>
 
 
