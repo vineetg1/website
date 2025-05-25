@@ -1,5 +1,21 @@
 ---
 layout: post
+date: 2025-02-26 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+Two full papers accepted at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers):
+
+ [TIDE](https://arxiv.org/pdf/2411.16788): Improves model generalization by localizing class-specific concepts and supports test-time correction.
+
+[VELOCITI](https://arxiv.org/pdf/2406.10889): Benchmarks video-language models on compositional understanding via a strict video-language entailment task tailored to modern VLMs. Try it on [HuggingFace](https://huggingface.co/datasets/katha-ai-iiith/VELOCITI).
+
+<!-- Two full papers accepted at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers). The first paper called [TIDE](https://arxiv.org/pdf/2411.16788) shows that model generalization abilities can be sginficantly enhanced by localizing class specific concepts. It also allows ability for correction at the test time. The second paper called [VELOCITI](https://arxiv.org/pdf/2406.10889) benchmarks video-language models for their ability to understand compositionality! We propose a strict form of video-language entailment that is amenable to modern VLMs. Try at [HuggingFace](https://huggingface.co/datasets/katha-ai-iiith/VELOCITI) -->
+
+
+<!-- ---
+layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
@@ -30,4 +46,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
