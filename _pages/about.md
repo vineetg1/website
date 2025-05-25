@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently an associate professor at [IIIT Hyderabad](https://iiit.ac.in), where I am affiliated with Center for Visual Information Techonology ( CVIT ). I also advise a beautiful animation startup on their AI and ML related efforts [Animaker.com](Animaker.com). I completed my PhD degree at INRIA Rhone Alpes/Univesity of Grenoble in applied mathematics and computer science (mathématique appliquée et informatique) under the guidance of [Remi Ronfard](https://team.inria.fr/anima/remi-ronfard/). I was funded by the CIBLE scholarship by Region Rhone Alpes. Prior to this, I completed my Masters with Erasmus Mundus scholarship under CIMET consortium. I am extremely thankful to European Union for giving me this opportunity which had a huge impact on both my professional and personal life. I spent a semester each in Spain, Norway and France and later joined INRIA for my master thesis and continued for my PhD there. I was also lucky to travel and deeply explore Europe (from south of Spain to North of Norway), at times purely surviving on gestural expressions for communication. I obtained my Bachelor of Technology degree from Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur, India (I belong to the first batch of the insititute).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I like to focus on problems with tangible goals and I try to build end to end solutions (with neat engineering). My current research interests are in applied machine learning for applications in computer vision and multimedia. In recent years, I have been exploring specific problems of computational videography/cinematography; image/video editing; multiple sensor fusion for 3D analytics; sports analytics; document analytics; visual detection,tracking and recognition. In personal space, I like to spend time with my family, play cards, go on bicycle rides, read ancient literature and explore mountains.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
