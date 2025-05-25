@@ -5,11 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Two full papers accepted at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers):
-
- [TIDE](https://arxiv.org/pdf/2411.16788): Improves model generalization by localizing class-specific concepts and supports test-time correction.
-
-[VELOCITI](https://arxiv.org/pdf/2406.10889): Benchmarks video-language models on compositional understanding via a strict video-language entailment task tailored to modern VLMs. Try it on [HuggingFace](https://huggingface.co/datasets/katha-ai-iiith/VELOCITI).
+Two full papers accepted at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers). The first paper called [TIDE](https://arxiv.org/pdf/2411.16788), improves model generalization by localizing class-specific concepts and supports test-time correction. The second paper called [VELOCITI](https://arxiv.org/pdf/2406.10889), benchmarks video-language models on compositional understanding via a strict video-language entailment task tailored to modern VLMs. Try it on [HuggingFace](https://huggingface.co/datasets/katha-ai-iiith/VELOCITI).
 
 <!-- Two full papers accepted at [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers). The first paper called [TIDE](https://arxiv.org/pdf/2411.16788) shows that model generalization abilities can be sginficantly enhanced by localizing class specific concepts. It also allows ability for correction at the test time. The second paper called [VELOCITI](https://arxiv.org/pdf/2406.10889) benchmarks video-language models for their ability to understand compositionality! We propose a strict form of video-language entailment that is amenable to modern VLMs. Try at [HuggingFace](https://huggingface.co/datasets/katha-ai-iiith/VELOCITI) -->
 
