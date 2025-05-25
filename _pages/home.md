@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>F24, CVIT,</p>
     <p>KCIS Research Block,</p>
-    <p>IIIT Hyderabad</p>
-    <p>Gachibowli, Hyderabad, India, 500032</p>
+    <p>IIIT Hyderabad, Gachibowli</p>
+    <p>Hyderabad, India, 500032</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
