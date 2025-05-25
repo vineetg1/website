@@ -414,7 +414,7 @@ ninja.data = [{
           section: "News",},{id: "news-two-full-papers-accepted-at-cvpr-2025-the-first-paper-called-tide-improves-model-generalization-by-localizing-class-specific-concepts-and-supports-test-time-correction-the-second-paper-called-velociti-benchmarks-video-language-models-on-compositional-understanding-via-a-strict-video-language-entailment-task-tailored-to-modern-vlms-try-it-on-huggingface",
           title: 'Two full papers accepted at CVPR 2025. The first paper called TIDE, improves...',
           description: "",
-          section: "News",},{id: "news-our-paper-nam-to-speech-conversion-with-multitask-enhanced-autoregressive-models-has-been-accepted-at-interspeech-2025-speech-samples-can-be-seen-on-here",
+          section: "News",},{id: "news-our-paper-nam-to-speech-conversion-with-multitask-enhanced-autoregressive-models-has-been-accepted-at-interspeech-2025-speech-samples-can-be-seen-here",
           title: 'Our paper “NAM-to-Speech Conversion with Multitask-Enhanced Autoregressive Models” has been accepted at Interspeech...',
           description: "",
           section: "News",},{id: "projects-project-1",
