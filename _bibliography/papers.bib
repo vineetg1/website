@@ -28,7 +28,7 @@
   preview={cvpr2025-velociti.webp},
   code = {https://github.com/katha-ai/VELOCITI},
   pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/CVPR2025_VELOCITI.pdf},
-  url = {https://katha-ai.github.io/projects/velociti/},
+  html = {https://katha-ai.github.io/projects/velociti/},
   arxiv={2406.10889},
   abstract={A fundamental aspect of compositional reasoning in a video is associating people and their actions across time. Recent years have seen great progress in general-purpose vision or video models and a move towards long-video understanding. While exciting, we take a step back and ask: are current models good at compositional reasoning on short videos? To this end, we introduce VELOCITI, a benchmark to study Video-LLMs by disentangling and assessing the comprehension of agents, actions, and their associations across multiple events. We adopt the Video-Language Entailment setup and propose StrictVLE that requires correct classification (rather than ranking) of the positive and negative caption. We evaluate several models and observe that even the best, LLaVA-OneVision (44.5%) and Gemini-1.5-Pro (49.3%), are far from human accuracy at 93.0%. Results show that action understanding lags behind agents, and negative captions created using entities appearing in the video perform worse than those obtained from pure text manipulation. We also present challenges with ClassicVLE and multiple-choice (MC) evaluation, strengthening our preference for StrictVLE. Finally, we validate that our benchmark requires visual inputs of multiple frames making it ideal to study video-language compositional reasoning.}
 }
@@ -42,6 +42,17 @@
   pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/cvpr_miv_2025},
   preview={miv_cvpr_2025.webp},
   abstract={To understand a prompt, Vision-Language models (VLMs) must perceive the image, comprehend the text, and build associations within and across both modalities. For instance, given an ’image of a red toy car’, the model should associate this image to phrases like ’car’, ’red toy’, ’red object’, etc. Feng and Steinhardt propose the Binding ID mechanism in LLMs, suggesting that the entity and its corresponding attribute tokens share a Binding ID vector in the model activations. We investigate this for image-text binding in VLMs using a synthetic dataset and task that requires models to associate 3D objects in an image with their descriptions in the text. Our experiments demonstrate that VLMs assign a distinct Binding ID to an object’s image tokens and its textual references, enabling in-context association.}
+}
+
+@inproceedings{Saravanan2025_FGCV,
+  author = {Saravanan, Darshana and Manwani, Naresh and Gandhi, Vineet},
+  title = {{Pseudo-labelling meets Label Smoothing for Noisy Partial Label Learning}},
+  year = {2025},
+  booktitle = {CVPR Workshop on Workshop on Fine-Grained Visual Categorization (FGCV)},
+  month = jun,
+  pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/PALS_FGVC_CVPRW25},
+  preview={miv_cvpr_2025.webp},
+  abstract={We motivate weakly supervised learning as an effective learning paradigm for problems where curating perfectly annotated datasets is expensive and may require domain expertise such as fine-grained classification. We focus on Partial Label Learning (PLL), a weakly-supervised learning paradigm where each training instance is paired with a set of candidate labels (partial label), one of which is the true label. Noisy PLL (NPLL) relaxes this constraint by allowing some partial labels to not contain the true label, enhancing the practicality of the problem. Our work centres on NPLL and presents a framework that initially assigns pseudo-labels to images by exploiting the noisy partial labels through a weighted nearest neighbour algorithm. These pseudo-label and image pairs are then used to train a deep neural network classifier with label smoothing. The classifier’s features and predictions are subsequently employed to refine and enhance the accuracy of pseudo-labels. We perform thorough experiments on seven datasets and compare against nine NPLL and PLL methods. We achieve state-of-the-art results in all studied settings from the prior literature, obtaining substantial gains in the simulated fine-grained benchmarks. Further, we show the promising generalisation capability of our framework in realistic, fine-grained, crowd-sourced datasets.}
 }
 
 @article{einstein1950meaning,
