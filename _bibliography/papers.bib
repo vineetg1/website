@@ -48,10 +48,10 @@
   author = {Saravanan, Darshana and Manwani, Naresh and Gandhi, Vineet},
   title = {{Pseudo-labelling meets Label Smoothing for Noisy Partial Label Learning}},
   year = {2025},
-  booktitle = {CVPR Workshop on Workshop on Fine-Grained Visual Categorization (FGCV)},
+  booktitle = {CVPR Workshop on Workshop on Fine-Grained Visual Categorization (FGVC)},
   month = jun,
   pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/PALS_FGVC_CVPRW25},
-  preview={fgvc.jpg},
+  preview={fgcv.jpg},
   abstract={We motivate weakly supervised learning as an effective learning paradigm for problems where curating perfectly annotated datasets is expensive and may require domain expertise such as fine-grained classification. We focus on Partial Label Learning (PLL), a weakly-supervised learning paradigm where each training instance is paired with a set of candidate labels (partial label), one of which is the true label. Noisy PLL (NPLL) relaxes this constraint by allowing some partial labels to not contain the true label, enhancing the practicality of the problem. Our work centres on NPLL and presents a framework that initially assigns pseudo-labels to images by exploiting the noisy partial labels through a weighted nearest neighbour algorithm. These pseudo-label and image pairs are then used to train a deep neural network classifier with label smoothing. The classifier’s features and predictions are subsequently employed to refine and enhance the accuracy of pseudo-labels. We perform thorough experiments on seven datasets and compare against nine NPLL and PLL methods. We achieve state-of-the-art results in all studied settings from the prior literature, obtaining substantial gains in the simulated fine-grained benchmarks. Further, we show the promising generalisation capability of our framework in realistic, fine-grained, crowd-sourced datasets.}
 }
 
@@ -59,7 +59,7 @@
   abbr={UBICOMP},
   title={StethoSpeech: Speech Generation Through a Clinical Stethoscope Attached to the Skin},
   author={Shah, Neil and Sahipjohn, Neha and Tambrahalli, Vishal and Subramanian, Ramanathan and Gandhi, Vineet},
-  journal={ACM Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  journal={UBICOMP 2024, to appear in ACM Interactive, Mobile, Wearable and Ubiquitous Technologies 2024},
   month = nov,
   year={2024},
   html={https://stethospeech.github.io/StethoSpeech/},
@@ -77,6 +77,7 @@ arxiv={2406.14654},
 html={https://huggingface.co/papers/2406.14654},
 pdf={https://aclanthology.org/2024.emnlp-main.652.pdf},
 code={https://github.com/KawshikManikantan/MEI},
+preview={mei.jpg},
 abstract={The limited generalization of coreference resolution (CR) models has been a major bottleneck in the task's broad application. Prior work has identified annotation differences, especially for mention detection, as one of the main reasons for the generalization gap and proposed using additional annotated target domain data. Rather than relying on this additional annotation, we propose an alternative formulation of the CR task, Major Entity Identification (MEI), where we: (a) assume the target entities to be specified in the input, and (b) limit the task to only the frequent entities. Through extensive experiments, we demonstrate that MEI models generalize well across domains on multiple datasets with supervised models and LLM-based few-shot prompting. Additionally, the MEI task fits the classification framework, which enables the use of classification-based metrics that are more robust than the current CR metrics. Finally, MEI is also of practical use as it allows a user to search for all mentions of a particular entity or a group of entities of interest}
 }
 
