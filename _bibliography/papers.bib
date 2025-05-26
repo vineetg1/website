@@ -3,25 +3,31 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@inproceedings{TIDE2025,
+  info = {Also at CVPR Workshop on DG-EBE},
+  bibtex_show={true},
+  author = {Aishwarya Agarwal, Srikrishna Karanam, Vineet Gandhi},
+  title = {TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction},
+  year = {2025},
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = jun,
+  preview={tide-cvpr2025},
+  pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/TIDE_cvpr_2025.pdf},
+  arxiv={2411.16788},
+  abstract={We consider the problem of single-source domain generalization. Existing methods typically rely on extensive augmentations to synthetically cover diverse domains during training. However, they struggle with semantic shifts (e.g., background and viewpoint changes), as they often learn global features instead of local concepts that tend to be domain invariant. To address this gap, we propose an approach that compels models to leverage such local concepts during prediction. Given no suitable dataset with per-class concepts and localization maps exists, we first develop a novel pipeline to generate annotations by exploiting the rich features of diffusion and large-language models. Our next innovation is TIDE, a novel training scheme with a concept saliency alignment loss that ensures model focus on the right per-concept regions and a local concept contrastive loss that promotes learning domain-invariant concept representations. This not only gives a robust model but also can be visually interpreted using the predicted concept saliency maps. Given these maps at test time, our final contribution is a new correction algorithm that uses the corresponding local concept representations to iteratively refine the prediction until it aligns with prototypical concept representations that we store at the end of model training. We evaluate our approach extensively on four standard DG benchmark datasets and substantially outperform the current state-ofthe-art (12% improvement on average) while also demonstrating that our predictions can be visually interpreted}
 }
 
 @inproceedings{DDV2025_Velociti,
   info = {Also at CVPR Workshops: VidLLMs, EVAL-FoMo, WiCV, MMFM},
   bibtex_show={true},
   author = {Saravanan, Darshana and Gupta, Varun and Singh, Darshan and Khan, Zeeshan and Gandhi, Vineet and Tapaswi, Makarand},
-  title = {{VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment}},
+  title = {VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment},
   year = {2025},
   booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
   month = jun,
   preview={cvpr2025-velociti.webp},
   code = {https://github.com/katha-ai/VELOCITI},
-  pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/Ubicomp_StethoSpeech_2024.pdf},
+  pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/CVPR2025_VELOCITI.pdf},
   url = {https://katha-ai.github.io/projects/velociti/},
   arxiv={2406.10889},
   abstract={A fundamental aspect of compositional reasoning in a video is associating people and their actions across time. Recent years have seen great progress in general-purpose vision or video models and a move towards long-video understanding. While exciting, we take a step back and ask: are current models good at compositional reasoning on short videos? To this end, we introduce VELOCITI, a benchmark to study Video-LLMs by disentangling and assessing the comprehension of agents, actions, and their associations across multiple events. We adopt the Video-Language Entailment setup and propose StrictVLE that requires correct classification (rather than ranking) of the positive and negative caption. We evaluate several models and observe that even the best, LLaVA-OneVision (44.5%) and Gemini-1.5-Pro (49.3%), are far from human accuracy at 93.0%. Results show that action understanding lags behind agents, and negative captions created using entities appearing in the video perform worse than those obtained from pure text manipulation. We also present challenges with ClassicVLE and multiple-choice (MC) evaluation, strengthening our preference for StrictVLE. Finally, we validate that our benchmark requires visual inputs of multiple frames making it ideal to study video-language compositional reasoning.}
