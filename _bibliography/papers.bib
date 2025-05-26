@@ -66,7 +66,7 @@
   booktitle = {CVPR Workshop on Workshop on Fine-Grained Visual Categorization (FGVC)},
   month = jun,
   preview={fgcv.jpg},
-  pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/PALS_FGVC_CVPRW25},
+  pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/PALS_FGVC_CVPRW25.pdf},
   abstract={We motivate weakly supervised learning as an effective learning paradigm for problems where curating perfectly annotated datasets is expensive and may require domain expertise such as fine-grained classification. We focus on Partial Label Learning (PLL), a weakly-supervised learning paradigm where each training instance is paired with a set of candidate labels (partial label), one of which is the true label. Noisy PLL (NPLL) relaxes this constraint by allowing some partial labels to not contain the true label, enhancing the practicality of the problem. Our work centres on NPLL and presents a framework that initially assigns pseudo-labels to images by exploiting the noisy partial labels through a weighted nearest neighbour algorithm. These pseudo-label and image pairs are then used to train a deep neural network classifier with label smoothing. The classifier’s features and predictions are subsequently employed to refine and enhance the accuracy of pseudo-labels. We perform thorough experiments on seven datasets and compare against nine NPLL and PLL methods. We achieve state-of-the-art results in all studied settings from the prior literature, obtaining substantial gains in the simulated fine-grained benchmarks. Further, we show the promising generalisation capability of our framework in realistic, fine-grained, crowd-sourced datasets.}
 }
 
@@ -96,6 +96,46 @@
   arxiv = {2412.18836},
   html = {https://mri2speech.github.io/MRI2Speech/},
   abstract={Previous real-time MRI (rtMRI)-based speech synthesis models depend heavily on noisy ground-truth speech. Applying loss directly over ground truth mel-spectrograms entangles speech content with MRI noise, resulting in poor intelligibility. We introduce a novel approach that adapts the multi-modal self-supervised AV-HuBERT model for text prediction from rtMRI and incorporates a new flow-based duration predictor for speaker-specific alignment. The predicted text and durations are then used by a speech decoder to synthesize aligned speech in any novel voice. We conduct thorough experiments on two datasets and demonstrate our method's generalization ability to unseen speakers. Our method achieves a 15.18% Word Error Rate (WER) on the USC-TIMIT MRI corpus, marking a huge improvement over the current state-of-the-art.}
+}
+
+@inproceedings{multinam_ICASSP_2025,
+  bibtex_show={true},
+  author = {Shah, Neil and Karande, Shirish and Gandhi, Vineet},
+  title = {{Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset}},
+  year = {2025},
+  booktitle = {International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  month = Apr,
+  preview={multinam.jpg},
+  arxiv = {2412.18839},
+  html = {https://diff-nam.github.io/DiffNAM/},
+  abstract={Current Non-Audible Murmur (NAM)-to-speech techniques rely on voice cloning to simulate ground-truth speech from paired whispers. However, the simulated speech often lacks intelligibility and fails to generalize well across different speakers. To address this issue, we focus on learning phoneme-level alignments from paired whispers and text and employ a Text-to-Speech (TTS) system to synthesize the ground-truth. To reduce dependence on whispers, we learn phoneme alignments directly from NAMs, though the quality is constrained by the available training data. To further mitigate reliance on NAM/whisper data for ground-truth simulation, we propose incorporating the lip modality to infer speech and introduce a novel diffusion-based method that leverages recent advancements in lip-to-speech technology. Additionally, we release the MultiNAM dataset with over 7.96 hours of paired NAM, whisper, video, and text data from two speakers and benchmark all methods on this dataset.}
+}
+
+@inproceedings{Kashyap_ICASSP_2025,
+  bibtex_show={true},
+  author = {Kashyap, Ayan and Shah, Neil and Gandhi, Vineet},
+  title = {{Prompt-to-Correct: Automated Test-Time Pronunciation Correction with Voice Prompts}},
+  year = {2025},
+  booktitle = {International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  month = Apr,
+  preview={p2c.jpg},
+  html = {https://prompt-to-correct.github.io/P2C/},
+  pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/p2c_ICASSP_2025.pdf},
+  abstract={Pronunciation correction is crucial for Text-to- Speech (TTS) systems in production. Traditional methods, which rely on phoneme sequence manipulation, are often cumbersome and error-prone. To address this, we propose Prompt-to-Correct, an editing-based methodology for pronunciation correction in TTS systems using voice prompts. Our approach enables ac- curate, granular corrections at test-time without the need for additional training or fine-tuning. Unlike existing speech edit- ing methods, we eliminate the need for external alignment to determine edit boundaries. By simply providing a correctly- pronounced reading of a word in any voice or accent, our system successfully corrects mispronunciations while maintaining continuity. Experimental results demonstrate that our method outperforms traditional baselines and state-of-the-art speech editing techniques.}
+}
+
+@inproceedings{Girmaji_ICASSP_2025,
+  bibtex_show={true},
+  author = {Girmaji, Rohit and Jain, Siddharth and Beri, Bhav and Bansal, Sarthak and Gandhi, Vineet},
+  title = {{Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues}},
+  year = {2025},
+  booktitle = {International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  month = Apr,
+  preview={sal_icassp_2025.jpg},
+  pdf = {https://faculty.iiit.ac.in/%7Evgandhi/papers/saliency_ICASSP_2025.pdf},
+  code={https://github.com/ViNet-Saliency/vinet_v2},
+  arxiv={2502.00397},
+  abstract={This paper introduces ViNet-S, a 36MB model based on the ViNet architecture with a U-Net design, featuring a lightweight decoder that significantly reduces model size and parameters without compromising performance. Additionally, ViNet-A (148MB) incorporates spatio-temporal action localization (STAL) features, differing from traditional video saliency models that use action classification backbones. Our studies show that an ensemble of ViNet-S and ViNet-A, by averaging predicted saliency maps, achieves state-of-the-art performance on three visual-only and six audio-visual saliency datasets, outperforming transformer-based models in both parameter efficiency and real-time performance, with ViNet-S reaching over 1000fps.}
 }
 
 
