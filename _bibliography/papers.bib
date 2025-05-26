@@ -51,22 +51,23 @@
   booktitle = {CVPR Workshop on Workshop on Fine-Grained Visual Categorization (FGCV)},
   month = jun,
   pdf = {https://faculty.iiit.ac.in/~vgandhi/papers/PALS_FGVC_CVPRW25},
-  preview={miv_cvpr_2025.webp},
+  preview={fgvc.jpg},
   abstract={We motivate weakly supervised learning as an effective learning paradigm for problems where curating perfectly annotated datasets is expensive and may require domain expertise such as fine-grained classification. We focus on Partial Label Learning (PLL), a weakly-supervised learning paradigm where each training instance is paired with a set of candidate labels (partial label), one of which is the true label. Noisy PLL (NPLL) relaxes this constraint by allowing some partial labels to not contain the true label, enhancing the practicality of the problem. Our work centres on NPLL and presents a framework that initially assigns pseudo-labels to images by exploiting the noisy partial labels through a weighted nearest neighbour algorithm. These pseudo-label and image pairs are then used to train a deep neural network classifier with label smoothing. The classifier’s features and predictions are subsequently employed to refine and enhance the accuracy of pseudo-labels. We perform thorough experiments on seven datasets and compare against nine NPLL and PLL methods. We achieve state-of-the-art results in all studied settings from the prior literature, obtaining substantial gains in the simulated fine-grained benchmarks. Further, we show the promising generalisation capability of our framework in realistic, fine-grained, crowd-sourced datasets.}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@article{NEIL_ubicomb_2024,
+  abbr={UBICOMP},
+  title={StethoSpeech: Speech Generation Through a Clinical Stethoscope Attached to the Skin},
+  author={Shah, Neil and Sahipjohn, Neha and Tambrahalli, Vishal and Subramanian, Ramanathan and Gandhi, Vineet},
+  journal={ACM Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  month = nov,
+  year={2024},
+  html={https://stethospeech.github.io/StethoSpeech/},
+  preview={stethospeech.jpg},
+  abstract={We introduce StethoSpeech, a silent speech interface that transforms flesh-conducted vibrations behind the ear into speech. This innovation is designed to improve social interactions for those with voice disorders, and furthermore enable discreet public communication. Unlike prior efforts, StethoSpeech does not require (a) paired-speech data for recorded vibrations and (b) a specialized device for recording vibrations, as it can work with an off-the-shelf clinical stethoscope. The novelty of our framework lies in the overall design, simulation of the ground-truth speech, and a sequence-to-sequence translation network, which works in the latent space. We present comprehensive experiments on the existing CSTR NAM TIMIT Plus corpus and our proposed StethoText: a large-scale synchronized database of non-audible murmur and text for speech research. Our results show that StethoSpeech provides natural-sounding and intelligible speech, significantly outperforming existing methods on several quantitative and qualitative metrics. Additionally, we showcase its capacity to extend its application to speakers not encountered during training and its effectiveness in challenging, noisy environments. Speech samples are available at https://stethospeech.github.io/StethoSpeech/}
 }
+
+
 
 @article{PhysRev.47.777,
   abbr={PhysRev},
@@ -96,17 +97,6 @@
   inspirehep_id = {3255}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
 @article{einstein1905movement,
   abbr={Ann. Phys.},
   title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
@@ -115,36 +105,4 @@
   volume={17},
   pages={549--560},
   year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
 }
