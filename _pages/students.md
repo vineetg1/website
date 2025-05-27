@@ -14,7 +14,7 @@ nav_order: 6
   - Aishwarya Agarwal (PhD) - part-time with Adobe Research
   - Yash Sonkar (PhD)
   - Desu Venkata Manikanta (PhD) - part-time with TCS Research
-  - Yasasvi Kilaru Chandu (MS by research)
+  - Yasaswi Kilaru Chandra Gandhi (MS by research)
   - Rohit Girmaji (MS by research)
   - Adhiraj Anil Deshmukh (Dual Degree)
   - Darshana S. (MS by research)
