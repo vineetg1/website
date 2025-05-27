@@ -7,56 +7,53 @@ nav: true
 nav_order: 7
 ---
 
-- **Supervising (Degree Students)**
-
-  Neil Shah (PhD)
-  Aishwarya Agarwal (PhD) - part-time with Adobe Research
-  Yash Sonkar (PhD)
-  Desu Venkata Manikanta (PhD) - part-time with TCS Research
-  Yasasvi Kilaru Chandu (MS by research)
-  Rohit Girmaji (MS by research)
-  Adhiraj Anil Deshmukh (Dual Degree)
-  Darshana S. (MS by research)
-  Bhav Beri (Dual Degree)
-  T Santoshi (MS by research) - part-time with ISRO
-  Ayan Kashyap (MS by research)
-  Siddhartha Jain (MS by research)
-  Sudheera Yelimeli (Dual Degree)
+**Supervising (Degree Students)**
+  - Neil Shah (PhD)
+  - Aishwarya Agarwal (PhD) - part-time with Adobe Research
+  - Yash Sonkar (PhD)
+  - Desu Venkata Manikanta (PhD) - part-time with TCS Research
+  - Yasasvi Kilaru Chandu (MS by research)
+  - Rohit Girmaji (MS by research)
+  - Adhiraj Anil Deshmukh (Dual Degree)
+  - Darshana S. (MS by research)
+  - Bhav Beri (Dual Degree)
+  - T Santoshi (MS by research) - part-time with ISRO
+  - Ayan Kashyap (MS by research)
+  - Siddhartha Jain (MS by research)
+  - Sudheera Yelimeli (Dual Degree)
 
   **Supervising (UG Honours and Research Assistants)**
-  Poorva Parkhi (Research Assitant)
-  Shreyas Mehta (UG Honours)
+  - Poorva Parkhi (Research Assitant)
+  - Shreyas Mehta (UG Honours)
 
+  **Supervised (Degree students)**
+  - Rahul Sharma (Dual Degree, jointly with C V Jawahar) – joined MSR, then PhD at CMU, now at AWS  
+  - Moneish Kumar (Dual Degree) – joined Samsung Research, went to CMU for second MS, now at Meta Reality Labs  
+  - Pranjal Rai (Dual Degree) – joined Google India, now at Google Sunnyvale  
+  - Sheetal Reddy (Dual Degree, jointly with Madhav Krishna) – joined Xilinx, then Siemens, now at Volvo Cars Sweden  
+  - Kanishk Jain (MS by research) – PhD student at MILA  
+  - Kranthi Kumar (MS by research) – joined PhD at IIT Madras, now at Qualcomm Research  
+  - Krishnam Gupta (Dual Degree, jointly with Madhav Krishna) – joined Microsoft, then Mfine, now at Audere Seattle  
+  - Abhinav Moudgil (Dual Degree) – joined PhD at MILA Montreal  
+  - Aryaman Gupta (Dual Degree) – now at Rippling  
+  - Navyasri Reddy (Dual Degree) – joined Capital One, now at Arizona State University  
+  - Samyak Jain (Dual Degree) – joined Microsoft  
+  - Shyamgopal Karthik (Dual Degree) – now PhD student at Max Planck Institute, Tuebingen  
+  - Sarath Sivaprasad (MS by research) – now a PhD student at CISPA with Mario Fritz  
+  - Nivedita Rufus (Dual Degree, jointly with Madhav Krishna) – joined LinkedIn  
+  - Saiteja Khosgi (MS by research) – now at Amazon Science London  
+  - Jeet Vora (MS by research) – joined Animator Inc.  
+  - Ritvik Agarwal (Dual Degree) – joined Oracle  
+  - Shreyank Jyoti (MS by research) – now a computer vision researcher at Spyne  
+  - Sudheer Achary (Dual Degree) – joined Microsoft  
+  - Swetanjal Dutta (Dual Degree) – joined Google Bangalore  
+  - Saransh Dave (MS by research) – joined Samsung Research  
+  - Ritu Srivastava (MS by research) - at some AI startup
+  - Neha S (MS by research) - joined Qualcomm Research
+  - Varun Chhangani (Dual Degree) - Own business
+  - Kawshik Manikantan (Dual Degree) - now at Google Deepmind
 
-  - **Supervised (Degree students)**
-  Rahul Sharma (Dual Degree, jointly with C V Jawahar) – joined MSR, then PhD at CMU, now at AWS  
-  Moneish Kumar (Dual Degree) – joined Samsung Research, went to CMU for second MS, now at Meta Reality Labs  
-  Pranjal Rai (Dual Degree) – joined Google India, now at Google Sunnyvale  
-  Sheetal Reddy (Dual Degree, jointly with Madhav Krishna) – joined Xilinx, then Siemens, now at Volvo Cars Sweden  
-  Kanishk Jain (MS by research) – PhD student at MILA  
-  Kranthi Kumar (MS by research) – joined PhD at IIT Madras, now at Qualcomm Research  
-  Krishnam Gupta (Dual Degree, jointly with Madhav Krishna) – joined Microsoft, then Mfine, now at Audere Seattle  
-  Abhinav Moudgil (Dual Degree) – joined PhD at MILA Montreal  
-  Aryaman Gupta (Dual Degree) – now at Rippling  
-  Navyasri Reddy (Dual Degree) – joined Capital One, now at Arizona State University  
-  Samyak Jain (Dual Degree) – joined Microsoft  
-  Shyamgopal Karthik (Dual Degree) – now PhD student at Max Planck Institute, Tuebingen  
-  Sarath Sivaprasad (MS by research) – now a PhD student at CISPA with Mario Fritz  
-  Nivedita Rufus (Dual Degree, jointly with Madhav Krishna) – joined LinkedIn  
-  Saiteja Khosgi (MS by research) – now at Amazon Science London  
-  Jeet Vora (MS by research) – joined Animator Inc.  
-  Ritvik Agarwal (Dual Degree) – joined Oracle  
-  Shreyank Jyoti (MS by research) – now a computer vision researcher at Spyne  
-  Sudheer Achary (Dual Degree) – joined Microsoft  
-  Swetanjal Dutta (Dual Degree) – joined Google Bangalore  
-  Saransh Dave (MS by research) – joined Samsung Research  
-  Ritu Srivastava (MS by research) - at some AI startup
-  Neha S (MS by research) - joined Qualcomm Research
-  Varun Chhangani (Dual Degree) - Own business
-  Kawshik Manikantan (Dual Degree) - now at Google Deepmind
-
-
- - **Supervised (Project, Honours and Research Assistants)**
+ **Supervised (Project, Honours and Research Assistants)**
 - Pratik Jacob (honours) – joined Goldman Sachs, then CMU for MS, then Cruise, then Citadel
 - Sajal Maheshwari (honours) – joined Qualcomm India, went to CMU for MS, then Qualcomm San Diego, then Amazon Prime, then Netflix  
 - Vatsal Shah (honours) – went for MS at UMass Amherst, then at Uber, now at Intuit California  
@@ -74,7 +71,7 @@ nav_order: 7
 - Unni Krishnan R Nair (project) – joined OLA  
 - Kalyanasundaram Jayaganesh (honours, jointly with Madhav Krishna) – now at Google Ireland  
 - Thakkar Kalpit (project) – now at rephrase.ai  
-- Mehta Ishit (independent study, project) – now a PhD student at UCSD with Ravi Ramamoorthi and Manmohan Chandraker  
+- Mehta Ishit (independent study, project) – now PhD student at UCSD 
 - Akshay Goindani (project) – now at CMU  
 - Abhishek Sivakumar (honours)  
   
