@@ -4,8 +4,10 @@ permalink: /students/
 title: Students
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 6
 ---
+
+<span style="color: blue; font-weight: bold;">Note for prospective students</span>: I do not take short term interns/RA's. Please write to me only if you looking to work for atleast an year. <br>
 
 **Supervising (Degree Students)**
   - Neil Shah (PhD)
@@ -73,5 +75,6 @@ nav_order: 7
 - Thakkar Kalpit (project) – now at rephrase.ai  
 - Mehta Ishit (independent study, project) – now PhD student at UCSD 
 - Akshay Goindani (project) – now at CMU  
-- Abhishek Sivakumar (honours)  
+- Abhishek Sivakumar (honours) 
+- Sarthak Bansal (honours) - joining APT research
   
