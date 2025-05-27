@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected publications in reversed chronological order. List of all publications <a href="https://scholar.google.fr/citations?user=PVlBz8oAAAAJ&hl">@Google Scholar</a>
+description: 
 nav: true
 nav_order: 2
 ---
+
+Selected publications in reversed chronological order. List of all publications @[Google Scholar](https://scholar.google.fr/citations?user=PVlBz8oAAAAJ&hl)
 
 <!-- _pages/publications.md -->
 
