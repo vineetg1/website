@@ -24,9 +24,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-.periodical {
-  font-size: 0.5em;
-  color: #777;
-  font-style: italic;
-  margin-top: 0.25rem;
+.publications .bib-note {
+  font-size: 0.6em;
+  color: #777; 
 }
