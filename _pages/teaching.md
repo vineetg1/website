@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-### Courses Taught at IIIT Hyderabad
+#### Courses Taught at IIIT Hyderabad
 
 **Statistical Methods in AI**
 - CSE471: Monsoon 2017-18, Spring 2019-20, 2020-21 (with Ravi Kiran)  
