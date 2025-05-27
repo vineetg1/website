@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<span style="color: blue; font-weight: bold;">Note for prospective students</span>: I do not take short term interns/RA's. Please write to me only if you looking to work for atleast an year. <br>
+<span style="color: blue; font-weight: bold;">Note for prospective students</span><br> I do not offer short-term internship or research assistantship opportunities. Please contact me only if you are seeking a commitment of at least one year. <br><br>
 
 **Supervising (Degree Students)**
   - Neil Shah (PhD)
