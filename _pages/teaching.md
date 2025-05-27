@@ -7,31 +7,21 @@ nav: true
 nav_order: 7
 ---
 
-## Digital Image Processing (CSE478)
-- 2015-16 Monsoon  
-- 2016-17 Monsoon  
+## Courses Taught at IIIT Hyderabad
 
-## Digital Signal Analysis and Applications (CSE239)
-- 2015-16 Spring  
-- 2016-17 Spring  
-- 2017-18 Spring  
-- 2018-19 Spring  
+# Statistical Methods in AI
+- CSE471: Monsoon 2017-18, Spring 2019-20, 2020-21 (with Ravi Kiran)  
+- CS7.403: Spring 2021-22, 2022-23, 2023-24, 2024-25  
 
-## Statistical Methods in AI
-- 2017-18 Monsoon (CS7.403)  
-- 2019-20 Spring (CS7.403)  
-- 2020-21 Spring (CSE471) — co-teaching with Ravi Kiran  
-- 2021-22 Spring (CSE471)  
-- 2022-23 Spring (CS7.403)
-- 2023-24 Spring (CS7.403)  
-- 2024-25 Spring (CS7.403)    
+# Data Structures and Algorithms for Problem Solving (CS1.304)
+- Monsoon 2020-21 (with Avinash Sharma), 2021-22, 2022-23, 2023-24  
 
-## Computer Programming (CS7.403)
-- 2018-19 Monsoon — co-teaching with Praveen Parachuri  
-- 2019-20 Monsoon — co-teaching with Praveen Parachuri  
+# Computer Programming (CS0.101)
+- Monsoon 2018-19, 2019-20 — both with Praveen Parachuri  
 
-## Data Structures and Algorithms for Problem Solving (CS1.304)
-- 2020-21 Monsoon — co-teaching with Avinash Sharma  
-- 2021-22 Monsoon  
-- 2022-23 Monsoon  
-- 2023-24 Monsoon  
+# Digital Signal Analysis and Applications (IEC239)
+- Spring 2015-16, 2016-17, 2017-18, 2018-19  
+
+# Digital Image Processing (CSE478)
+- Monsoon 2015-16, 2016-17  
+
