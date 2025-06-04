@@ -449,17 +449,18 @@ TITLE = {Nose, Eyes and Ears: Head Pose Estimation By Locating Facial Keypoints}
 BOOKTITLE = {International Conference on Acoustics, Speech, and Signal Processing (ICASSP)}, 
 arxiv = {1812.00739},
 pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683503},
-preview = {headpose.jpg},
+preview = {headpose.png},
 YEAR = {2018},
 abstract = {Monocular head pose estimation requires learning a model that computes the intrinsic Euler angles for pose (yaw, pitch, roll) from an input image of human face. Annotating ground truth head pose angles for images in the wild is difficult and requires ad-hoc fitting procedures (which provides only coarse and approximate annotations). This highlights the need for approaches which can train on data captured in controlled environment and generalize on the images in the wild (with varying appearance and illumination of the face). Most present day deep learning approaches which learn a regression function directly on the input images fail to do so. To this end, we propose to use a higher level representation to regress the head pose while using deep learning architectures. More specifically, we use the uncertainty maps in the form of 2D soft localization heatmap images over five facial keypoints, namely left ear, right ear, left eye, right eye and nose, and pass them through an convolutional neural network to regress the head-pose. We show head pose estimation results on two challenging benchmarks BIWI and AFLW and our approach surpasses the state of the art on both the datasets.}
 }
 
-@inproceedings{moudgil-arxiv-2017, 
+@inproceedings{moudgil-accv-2017, 
 bibtex_show={true},
 title = {{Long-Term Visual Object Tracking Benchmark}}, 
 author = {Moudgil Abhinav and Gandhi Vineet}, 
 booktitle = {Asian Conference on Computer Vision (ACCV)}, 
 arxiv = {1712.01358},
 year = {2017}, 
+preview = {Bike.jpg},
 abstract = {In this paper, we propose a new long video dataset (called Track Long and Prosper - TLP) and benchmark for visual object tracking. The dataset consists of 50 videos from real world scenarios, encompassing a duration of over 400 minutes (676K frames), making it more than 20 folds larger in average duration per sequence and more than 8 folds larger in terms of total covered duration, as compared to existing generic datasets for visual tracking. The proposed dataset paves a way to suitably assess long term tracking performance and possibly train better deep learning architectures (avoiding/reducing augmentation, which may not reflect realistic real world behavior). We benchmark the dataset on 17 state of the art trackers and rank them according to tracking accuracy and run time speeds. We further categorize the test sequences with different attributes and present a thorough quantitative and qualitative evaluation. Our most interesting observations are (a) existing short sequence benchmarks fail to bring out the inherent differences in tracking algorithms which widen up while tracking on long sequences and (b) the accuracy of most trackers abruptly drops on challenging long sequences, suggesting the potential need of research efforts in the direction of long term tracking.},
 }
