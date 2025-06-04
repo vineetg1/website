@@ -441,3 +441,15 @@ YEAR = {2019},
 preview = {umbrella.jpg},
 abstract = {Localizing natural language phrases in images is a challenging problem that requires joint understanding of both the textual and visual modalities. In the unsupervised setting, lack of supervisory signals exacerbate this difficulty. In this paper, we propose a novel framework for unsupervised visual grounding which uses concept learning as a proxy task to obtain self-supervision. The simple intuition behind this idea is to encourage the model to localize to regions which can explain some semantic property in the data, in our case, the property being the presence of a concept in a set of images. We present thorough quantitative and qualitative experiments to demonstrate the efficacy of our approach and show a 5.6% improvement over the current state of the art on Visual Genome dataset, a 5.8% improvement on the ReferItGame dataset and comparable to state-of-art performance on the Flickr30k dataset.}
 }
+
+@inproceedings{Gupta-arxiv-2018, 
+bibtex_show={true},
+AUTHOR = {Gupta, Aryaman and Thakkar, Kalpit and Gandhi, Vineet and Narayanan, P J}, 
+TITLE = {Nose, Eyes and Ears: Head Pose Estimation By Locating Facial Keypoints}, 
+BOOKTITLE = {International Conference on Acoustics, Speech, and Signal Processing (ICASSP)}, 
+arxiv = {1812.00739},
+pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8683503},
+preview = {headpose.jpg},
+YEAR = {2018},
+abstract = {Monocular head pose estimation requires learning a model that computes the intrinsic Euler angles for pose (yaw, pitch, roll) from an input image of human face. Annotating ground truth head pose angles for images in the wild is difficult and requires ad-hoc fitting procedures (which provides only coarse and approximate annotations). This highlights the need for approaches which can train on data captured in controlled environment and generalize on the images in the wild (with varying appearance and illumination of the face). Most present day deep learning approaches which learn a regression function directly on the input images fail to do so. To this end, we propose to use a higher level representation to regress the head pose while using deep learning architectures. More specifically, we use the uncertainty maps in the form of 2D soft localization heatmap images over five facial keypoints, namely left ear, right ear, left eye, right eye and nose, and pass them through an convolutional neural network to regress the head-pose. We show head pose estimation results on two challenging benchmarks BIWI and AFLW and our approach surpasses the state of the art on both the datasets.}
+}
