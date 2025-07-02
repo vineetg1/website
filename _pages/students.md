@@ -15,13 +15,11 @@ nav_order: 6
   - Yash Sonkar (PhD)
   - Desu Venkata Manikanta (PhD) - part-time with TCS Research
   - Yasaswi Kilaru Chandra Gandhi (MS by research)
-  - Rohit Girmaji (MS by research)
   - Adhiraj Anil Deshmukh (Dual Degree)
-  - Darshana S. (MS by research)
   - Bhav Beri (Dual Degree)
   - T Santoshi (MS by research) - part-time with ISRO
   - Ayan Kashyap (MS by research)
-  - Siddhartha Jain (MS by research)
+  - Siddharth Jain (MS by research)
   - Sudheera Yelimeli (Dual Degree)
 
   **Supervising (UG Honours and Research Assistants)**
@@ -54,6 +52,8 @@ nav_order: 6
   - Neha S (MS by research) - joined Qualcomm Research
   - Varun Chhangani (Dual Degree) - Own business
   - Kawshik Manikantan (Dual Degree) - now at Google Deepmind
+  - Darshana S. (MS by research) - now at Micrsoft Research 
+  - Rohit Girmaji (MS by research) - now RA at IISC Bangalore
 
  **Supervised (Project, Honours and Research Assistants)**
 - Pratik Jacob (honours) – joined Goldman Sachs, then CMU for MS, then Cruise, then Citadel
